@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Uniteller - Directorio Interno</title>
+	<link rel="stylesheet" type="text/css" href="menu.css" />
+		<table border=0>
+		<tr>
+		<td height="100" colspan="5"><a href="C:\intranet\index_bg.html" target="central">
+		<img class="logo" src="C:\intranet\img src\logo_ut.png" height="100"></a>
+		</td>
+		<td width="100%" height="50" align="center">
+		<div align="center">
+<div class="dropdown">
+  <button class="dropbtn"><a href="C:\Intranet\pagadores.html" target="central">Directorio</a></button>
+  <!--
+  <div class="dropdown-content">
+    <a href="#">Atenci&#243;n a clientes</a>
+    <a href="#">Legal</a>
+    <a href="#">Contabilidad</a>
+    <a href="#">Internacional</a>
+    <a href="#">Sistemas</a>
+  </div>-->
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn"><a href="C:\Intranet\pagadores.html" target="central">Horarios</a></button>
+  <!--
+  <div class="dropdown-content">
+    <a href="#">Matutino/Vespertino</a>
+    <a href="#">Guardia Soporte</a>
+  </div>-->
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn"><a href="C:\Intranet\pagadores.html" target="central">Pagadores</a></button>
+  
+  <!--<div class="dropdown-content">
+    <a href="#">México</a>
+	<a href="#">Colombia</a>
+	<a href="#">Honduras</a>
+    <a href="#">Guatemala</a>
+    <a href="#">Argentina</a>
+    <a href="#">Costa Rica</a>
+    <a href="#">República Dominicana</a>
+    <a href="#">Ecuador</a>
+    <a href="#">El Salvador</a>
+    <a href="#">Haiti</a>
+    <a href="#">Nicaragua</a>
+    <a href="#">Panamá</a>
+    <a href="#">Perú</a>
+    <a href="#">Filipinas</a>
+    <a href="#">Uruguay</a>
+    <a href="#">Vietnam</a>
+    <a href="#">Bolivia</a>
+  </div>-->
+</div>
+
+<div class="dropdown">
+  <button class="dropbtn"><a href="C:\Intranet\pagadores.html" target="central">Transmisores</a></button>
+  <!--
+  <div class="dropdown-content">
+		<a href="">AMERICA TRANSFER</a>
+		<a href="">BARRI GROUP</a>
+		<a href="">BTS</a>
+		<a href="">CHOICE</a>
+		<a href="">CIBAO</a>
+		<a href="">CURACAO</a>
+		<a href="">DELGADO</a>
+		<a href="">DINEX</a>
+		<a href="">DOLEX</a>
+		<a href="">ENRAMEX</a>
+		<a href="">GOLDEN MONEY TRANSFER</a>
+		<a href="">GIROSOL</a>
+		<a href="">GROUPEX</a>
+		<a href="">IDT</a>
+		<a href="">INTERCEX</a>
+		<a href="">INTERMEX</a>
+		<a href="">ITRANSFER</a>
+		<a href="">MAXITRANSFERS</a>
+		<a href="">MEXICO TRANSFER</a>
+		<a href="">MONEYGRAM</a>
+		<a href="">OMNEX</a>
+		<a href="">RIA</a>
+		<a href="">SAMSOS</a>
+		<a href="">SIGUE</a>
+		<a href="">TRANSFAST</a>
+		<a href="">TRANSNETWORK</a>
+		<a href="">VIAMERICAS</a>
+		<a href="">WELLS FARGO</a>
+		<a href="">XOOM</a>
+		<a href="">XPRESS MONEY</a>
+  </div>-->
+</div>
+</div>
+		</td>
+		<td width="100%" align="center">
+		<img src="C:\intranet\img src\U_logo.png">
+		</td>
+		</tr>		
+		</table>
+		
+</head>
+<body bgcolor="#f3f3f3">
+
+<script type="text/javascript">
+document.oncontextmenu = function(){return false;}
+</script>
+</body>
+</html>
